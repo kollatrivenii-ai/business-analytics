@@ -1,0 +1,301 @@
+Date,Region,Category,Product,Quantity,UnitPrice,UnitCost
+2025-01-03,North,Stationery,Pen Pack,9,250,120
+2025-01-08,East,Furniture,Desk,8,12000,8000
+2025-01-08,South,Electronics,Smartphone,2,25000,19000
+2025-01-09,West,Electronics,Headphones,7,3000,1800
+2025-01-09,South,Stationery,Pen Pack,6,250,120
+2025-01-12,South,Stationery,Pen Pack,3,250,120
+2025-01-13,West,Electronics,Headphones,8,3000,1800
+2025-01-14,North,Stationery,Pen Pack,7,250,120
+2025-01-16,South,Furniture,Desk,1,12000,8000
+2025-01-16,South,Stationery,Pen Pack,1,250,120
+2025-01-22,East,Electronics,Headphones,6,3000,1800
+2025-01-24,West,Stationery,Pen Pack,3,250,120
+2025-01-24,East,Stationery,Notebook,4,120,60
+2025-01-25,West,Stationery,Pen Pack,8,250,120
+2025-01-28,South,Electronics,Laptop,9,55000,42000
+2025-01-29,South,Stationery,Pen Pack,6,250,120
+2025-01-29,North,Stationery,Pen Pack,7,250,120
+2025-01-31,South,Electronics,Laptop,1,55000,42000
+2025-01-31,South,Electronics,Laptop,4,55000,42000
+2025-02-01,South,Electronics,Headphones,6,3000,1800
+2025-02-01,South,Electronics,Headphones,5,3000,1800
+2025-02-02,South,Stationery,Notebook,4,120,60
+2025-02-02,West,Electronics,Headphones,8,3000,1800
+2025-02-03,East,Stationery,Notebook,4,120,60
+2025-02-03,East,Electronics,Headphones,9,3000,1800
+2025-02-04,West,Electronics,Smartphone,9,25000,19000
+2025-02-04,North,Electronics,Laptop,9,55000,42000
+2025-02-05,East,Electronics,Laptop,9,55000,42000
+2025-02-05,East,Electronics,Laptop,4,55000,42000
+2025-02-07,South,Stationery,Pen Pack,5,250,120
+2025-02-08,South,Stationery,Notebook,8,120,60
+2025-02-11,West,Furniture,Office Chair,4,7000,4500
+2025-02-13,East,Electronics,Headphones,6,3000,1800
+2025-02-16,East,Stationery,Notebook,7,120,60
+2025-02-16,West,Electronics,Smartphone,4,25000,19000
+2025-02-16,West,Electronics,Headphones,9,3000,1800
+2025-02-17,South,Electronics,Headphones,7,3000,1800
+2025-02-21,West,Furniture,Desk,8,12000,8000
+2025-02-21,West,Electronics,Laptop,6,55000,42000
+2025-02-21,South,Electronics,Headphones,1,3000,1800
+2025-02-22,North,Furniture,Office Chair,1,7000,4500
+2025-02-25,South,Electronics,Smartphone,5,25000,19000
+2025-02-25,North,Stationery,Notebook,3,120,60
+2025-02-26,West,Stationery,Pen Pack,5,250,120
+2025-02-28,West,Stationery,Pen Pack,4,250,120
+2025-02-28,North,Furniture,Desk,2,12000,8000
+2025-02-28,East,Electronics,Laptop,7,55000,42000
+2025-03-02,North,Furniture,Desk,5,12000,8000
+2025-03-02,West,Furniture,Desk,5,12000,8000
+2025-03-02,South,Electronics,Headphones,6,3000,1800
+2025-03-04,North,Electronics,Laptop,3,55000,42000
+2025-03-05,East,Stationery,Notebook,3,120,60
+2025-03-06,South,Stationery,Pen Pack,8,250,120
+2025-03-07,South,Stationery,Notebook,3,120,60
+2025-03-08,South,Furniture,Desk,9,12000,8000
+2025-03-10,North,Stationery,Notebook,1,120,60
+2025-03-11,South,Furniture,Desk,1,12000,8000
+2025-03-13,North,Electronics,Laptop,4,55000,42000
+2025-03-14,West,Stationery,Notebook,4,120,60
+2025-03-15,East,Stationery,Notebook,7,120,60
+2025-03-15,South,Electronics,Headphones,3,3000,1800
+2025-03-20,North,Electronics,Headphones,2,3000,1800
+2025-03-24,South,Stationery,Notebook,7,120,60
+2025-03-24,North,Electronics,Headphones,7,3000,1800
+2025-03-27,East,Stationery,Pen Pack,7,250,120
+2025-03-29,West,Electronics,Laptop,3,55000,42000
+2025-03-29,East,Stationery,Notebook,9,120,60
+2025-03-31,North,Electronics,Headphones,5,3000,1800
+2025-04-06,North,Stationery,Pen Pack,1,250,120
+2025-04-07,South,Electronics,Smartphone,1,25000,19000
+2025-04-08,South,Stationery,Pen Pack,5,250,120
+2025-04-08,West,Furniture,Office Chair,2,7000,4500
+2025-04-10,North,Electronics,Laptop,8,55000,42000
+2025-04-11,East,Electronics,Laptop,2,55000,42000
+2025-04-11,South,Electronics,Laptop,2,55000,42000
+2025-04-12,East,Electronics,Smartphone,5,25000,19000
+2025-04-12,North,Electronics,Smartphone,3,25000,19000
+2025-04-13,West,Stationery,Pen Pack,4,250,120
+2025-04-14,West,Furniture,Desk,5,12000,8000
+2025-04-16,South,Stationery,Pen Pack,5,250,120
+2025-04-18,North,Electronics,Laptop,9,55000,42000
+2025-04-18,South,Stationery,Pen Pack,9,250,120
+2025-04-20,West,Furniture,Office Chair,1,7000,4500
+2025-04-21,North,Electronics,Laptop,9,55000,42000
+2025-04-21,East,Furniture,Desk,9,12000,8000
+2025-04-22,South,Electronics,Headphones,8,3000,1800
+2025-04-23,North,Furniture,Office Chair,3,7000,4500
+2025-04-25,West,Stationery,Notebook,3,120,60
+2025-04-28,East,Electronics,Smartphone,3,25000,19000
+2025-04-29,South,Furniture,Office Chair,1,7000,4500
+2025-05-01,West,Electronics,Headphones,3,3000,1800
+2025-05-01,West,Stationery,Notebook,6,120,60
+2025-05-02,East,Stationery,Pen Pack,3,250,120
+2025-05-03,North,Electronics,Smartphone,9,25000,19000
+2025-05-04,South,Stationery,Pen Pack,1,250,120
+2025-05-06,South,Electronics,Laptop,6,55000,42000
+2025-05-07,North,Electronics,Smartphone,4,25000,19000
+2025-05-07,East,Electronics,Laptop,7,55000,42000
+2025-05-10,East,Furniture,Office Chair,5,7000,4500
+2025-05-13,East,Electronics,Headphones,1,3000,1800
+2025-05-13,South,Furniture,Desk,7,12000,8000
+2025-05-14,North,Electronics,Smartphone,5,25000,19000
+2025-05-14,East,Electronics,Laptop,8,55000,42000
+2025-05-16,East,Electronics,Headphones,4,3000,1800
+2025-05-16,South,Electronics,Laptop,5,55000,42000
+2025-05-20,North,Furniture,Office Chair,3,7000,4500
+2025-05-22,East,Furniture,Desk,1,12000,8000
+2025-05-27,West,Electronics,Smartphone,1,25000,19000
+2025-05-29,South,Electronics,Headphones,2,3000,1800
+2025-05-30,East,Electronics,Laptop,3,55000,42000
+2025-05-30,North,Furniture,Office Chair,6,7000,4500
+2025-05-30,West,Stationery,Notebook,4,120,60
+2025-06-01,North,Furniture,Desk,9,12000,8000
+2025-06-02,East,Electronics,Laptop,5,55000,42000
+2025-06-02,West,Electronics,Laptop,9,55000,42000
+2025-06-07,North,Electronics,Laptop,6,55000,42000
+2025-06-08,North,Furniture,Desk,2,12000,8000
+2025-06-08,West,Furniture,Office Chair,6,7000,4500
+2025-06-08,East,Stationery,Notebook,3,120,60
+2025-06-09,East,Electronics,Headphones,4,3000,1800
+2025-06-09,West,Stationery,Pen Pack,7,250,120
+2025-06-10,East,Stationery,Pen Pack,2,250,120
+2025-06-10,East,Stationery,Notebook,8,120,60
+2025-06-10,South,Stationery,Pen Pack,7,250,120
+2025-06-11,West,Electronics,Headphones,4,3000,1800
+2025-06-11,South,Furniture,Office Chair,3,7000,4500
+2025-06-12,South,Electronics,Smartphone,3,25000,19000
+2025-06-12,West,Stationery,Pen Pack,8,250,120
+2025-06-13,West,Electronics,Smartphone,6,25000,19000
+2025-06-13,North,Furniture,Office Chair,8,7000,4500
+2025-06-14,East,Furniture,Office Chair,8,7000,4500
+2025-06-14,South,Stationery,Notebook,8,120,60
+2025-06-14,West,Stationery,Notebook,4,120,60
+2025-06-16,South,Electronics,Smartphone,9,25000,19000
+2025-06-16,South,Electronics,Smartphone,2,25000,19000
+2025-06-17,West,Electronics,Laptop,8,55000,42000
+2025-06-18,South,Electronics,Headphones,9,3000,1800
+2025-06-18,South,Stationery,Notebook,9,120,60
+2025-06-19,East,Furniture,Desk,5,12000,8000
+2025-06-20,West,Stationery,Pen Pack,5,250,120
+2025-06-20,East,Furniture,Office Chair,8,7000,4500
+2025-06-21,North,Furniture,Desk,8,12000,8000
+2025-06-21,West,Stationery,Notebook,1,120,60
+2025-06-22,North,Stationery,Notebook,5,120,60
+2025-06-22,North,Stationery,Pen Pack,4,250,120
+2025-06-23,North,Electronics,Laptop,7,55000,42000
+2025-06-26,South,Electronics,Headphones,3,3000,1800
+2025-06-27,South,Stationery,Notebook,1,120,60
+2025-06-29,North,Furniture,Desk,3,12000,8000
+2025-06-29,South,Electronics,Laptop,2,55000,42000
+2025-06-30,North,Electronics,Headphones,1,3000,1800
+2025-06-30,North,Furniture,Office Chair,4,7000,4500
+2025-06-30,West,Stationery,Pen Pack,3,250,120
+2025-07-01,East,Electronics,Smartphone,4,25000,19000
+2025-07-01,South,Stationery,Pen Pack,6,250,120
+2025-07-02,South,Electronics,Laptop,5,55000,42000
+2025-07-02,West,Electronics,Headphones,6,3000,1800
+2025-07-04,West,Stationery,Notebook,1,120,60
+2025-07-04,North,Electronics,Laptop,9,55000,42000
+2025-07-07,South,Stationery,Notebook,5,120,60
+2025-07-10,South,Stationery,Notebook,4,120,60
+2025-07-12,South,Furniture,Desk,6,12000,8000
+2025-07-17,North,Stationery,Notebook,1,120,60
+2025-07-18,North,Electronics,Headphones,4,3000,1800
+2025-07-19,East,Electronics,Laptop,2,55000,42000
+2025-07-19,West,Stationery,Pen Pack,3,250,120
+2025-07-19,West,Electronics,Smartphone,2,25000,19000
+2025-07-22,West,Stationery,Notebook,7,120,60
+2025-07-22,North,Electronics,Smartphone,8,25000,19000
+2025-07-22,West,Stationery,Notebook,7,120,60
+2025-07-23,South,Furniture,Desk,2,12000,8000
+2025-07-24,West,Electronics,Laptop,8,55000,42000
+2025-07-26,South,Electronics,Headphones,1,3000,1800
+2025-07-26,West,Electronics,Smartphone,2,25000,19000
+2025-07-26,West,Electronics,Laptop,5,55000,42000
+2025-07-27,North,Furniture,Desk,3,12000,8000
+2025-07-28,South,Electronics,Laptop,1,55000,42000
+2025-07-29,North,Electronics,Laptop,7,55000,42000
+2025-07-31,West,Electronics,Smartphone,9,25000,19000
+2025-08-01,East,Electronics,Smartphone,2,25000,19000
+2025-08-02,East,Electronics,Laptop,5,55000,42000
+2025-08-03,South,Stationery,Notebook,5,120,60
+2025-08-04,South,Furniture,Office Chair,1,7000,4500
+2025-08-09,North,Furniture,Office Chair,6,7000,4500
+2025-08-10,East,Stationery,Notebook,9,120,60
+2025-08-12,South,Furniture,Desk,7,12000,8000
+2025-08-17,West,Electronics,Laptop,9,55000,42000
+2025-08-18,South,Electronics,Laptop,4,55000,42000
+2025-08-18,North,Stationery,Notebook,2,120,60
+2025-08-19,East,Stationery,Pen Pack,5,250,120
+2025-08-19,West,Stationery,Pen Pack,1,250,120
+2025-08-20,West,Stationery,Notebook,4,120,60
+2025-08-21,South,Electronics,Smartphone,5,25000,19000
+2025-08-24,East,Electronics,Smartphone,9,25000,19000
+2025-08-26,West,Electronics,Smartphone,4,25000,19000
+2025-08-27,North,Stationery,Notebook,5,120,60
+2025-08-27,South,Electronics,Laptop,9,55000,42000
+2025-08-30,North,Stationery,Pen Pack,6,250,120
+2025-08-30,North,Furniture,Office Chair,5,7000,4500
+2025-08-31,North,Electronics,Laptop,1,55000,42000
+2025-08-31,South,Furniture,Office Chair,4,7000,4500
+2025-08-31,West,Electronics,Smartphone,3,25000,19000
+2025-09-01,North,Furniture,Desk,3,12000,8000
+2025-09-02,North,Electronics,Laptop,3,55000,42000
+2025-09-02,East,Electronics,Smartphone,8,25000,19000
+2025-09-05,South,Stationery,Notebook,9,120,60
+2025-09-05,East,Electronics,Smartphone,3,25000,19000
+2025-09-07,South,Electronics,Smartphone,7,25000,19000
+2025-09-07,East,Stationery,Notebook,8,120,60
+2025-09-07,East,Stationery,Pen Pack,3,250,120
+2025-09-08,North,Stationery,Pen Pack,7,250,120
+2025-09-12,South,Furniture,Desk,8,12000,8000
+2025-09-12,South,Stationery,Notebook,9,120,60
+2025-09-12,East,Furniture,Office Chair,7,7000,4500
+2025-09-13,West,Electronics,Laptop,1,55000,42000
+2025-09-13,West,Furniture,Desk,9,12000,8000
+2025-09-13,South,Stationery,Pen Pack,3,250,120
+2025-09-14,North,Electronics,Smartphone,6,25000,19000
+2025-09-15,West,Electronics,Laptop,8,55000,42000
+2025-09-19,West,Stationery,Notebook,6,120,60
+2025-09-19,South,Electronics,Smartphone,1,25000,19000
+2025-09-19,South,Stationery,Notebook,9,120,60
+2025-09-20,North,Electronics,Smartphone,1,25000,19000
+2025-09-21,North,Electronics,Headphones,3,3000,1800
+2025-09-21,North,Furniture,Office Chair,4,7000,4500
+2025-09-26,South,Stationery,Pen Pack,6,250,120
+2025-09-26,North,Electronics,Laptop,5,55000,42000
+2025-09-29,South,Electronics,Laptop,5,55000,42000
+2025-09-29,North,Stationery,Pen Pack,9,250,120
+2025-10-04,South,Furniture,Office Chair,9,7000,4500
+2025-10-04,East,Electronics,Smartphone,6,25000,19000
+2025-10-04,West,Electronics,Headphones,7,3000,1800
+2025-10-05,East,Furniture,Office Chair,3,7000,4500
+2025-10-05,South,Electronics,Smartphone,8,25000,19000
+2025-10-06,South,Furniture,Office Chair,4,7000,4500
+2025-10-07,West,Stationery,Notebook,1,120,60
+2025-10-08,North,Stationery,Pen Pack,1,250,120
+2025-10-09,North,Furniture,Office Chair,5,7000,4500
+2025-10-10,North,Stationery,Notebook,5,120,60
+2025-10-12,East,Electronics,Smartphone,4,25000,19000
+2025-10-12,North,Electronics,Smartphone,9,25000,19000
+2025-10-12,North,Electronics,Smartphone,3,25000,19000
+2025-10-12,South,Furniture,Office Chair,3,7000,4500
+2025-10-13,West,Stationery,Pen Pack,4,250,120
+2025-10-13,East,Furniture,Office Chair,4,7000,4500
+2025-10-14,South,Furniture,Desk,2,12000,8000
+2025-10-14,East,Electronics,Laptop,4,55000,42000
+2025-10-15,West,Furniture,Office Chair,7,7000,4500
+2025-10-15,North,Stationery,Notebook,3,120,60
+2025-10-15,West,Furniture,Office Chair,7,7000,4500
+2025-10-17,North,Furniture,Office Chair,8,7000,4500
+2025-10-18,North,Furniture,Office Chair,5,7000,4500
+2025-10-18,West,Electronics,Headphones,4,3000,1800
+2025-10-18,West,Furniture,Office Chair,6,7000,4500
+2025-10-21,West,Electronics,Headphones,7,3000,1800
+2025-10-21,North,Electronics,Smartphone,8,25000,19000
+2025-10-22,West,Stationery,Notebook,3,120,60
+2025-10-23,West,Stationery,Pen Pack,7,250,120
+2025-10-25,East,Stationery,Pen Pack,1,250,120
+2025-10-27,North,Furniture,Office Chair,7,7000,4500
+2025-10-28,South,Electronics,Laptop,9,55000,42000
+2025-10-30,East,Electronics,Headphones,2,3000,1800
+2025-10-31,South,Stationery,Pen Pack,7,250,120
+2025-10-31,South,Electronics,Smartphone,8,25000,19000
+2025-10-31,West,Electronics,Smartphone,6,25000,19000
+2025-11-03,South,Stationery,Pen Pack,8,250,120
+2025-11-04,East,Electronics,Headphones,4,3000,1800
+2025-11-07,East,Furniture,Desk,5,12000,8000
+2025-11-08,East,Furniture,Desk,9,12000,8000
+2025-11-09,East,Electronics,Smartphone,2,25000,19000
+2025-11-09,East,Electronics,Headphones,8,3000,1800
+2025-11-09,North,Stationery,Pen Pack,1,250,120
+2025-11-10,North,Stationery,Pen Pack,1,250,120
+2025-11-10,South,Electronics,Laptop,9,55000,42000
+2025-11-21,North,Furniture,Office Chair,6,7000,4500
+2025-11-22,South,Stationery,Pen Pack,5,250,120
+2025-11-24,North,Stationery,Notebook,9,120,60
+2025-11-25,East,Furniture,Desk,5,12000,8000
+2025-11-26,West,Furniture,Desk,5,12000,8000
+2025-11-27,West,Furniture,Office Chair,1,7000,4500
+2025-11-28,West,Furniture,Desk,3,12000,8000
+2025-12-01,East,Furniture,Office Chair,5,7000,4500
+2025-12-03,West,Stationery,Notebook,3,120,60
+2025-12-04,East,Electronics,Smartphone,1,25000,19000
+2025-12-05,South,Stationery,Pen Pack,6,250,120
+2025-12-09,South,Electronics,Headphones,9,3000,1800
+2025-12-09,East,Stationery,Pen Pack,8,250,120
+2025-12-10,East,Electronics,Laptop,7,55000,42000
+2025-12-15,South,Electronics,Smartphone,1,25000,19000
+2025-12-16,West,Electronics,Laptop,2,55000,42000
+2025-12-17,West,Electronics,Headphones,2,3000,1800
+2025-12-18,South,Electronics,Headphones,3,3000,1800
+2025-12-20,North,Stationery,Pen Pack,8,250,120
+2025-12-20,West,Electronics,Smartphone,8,25000,19000
+2025-12-21,West,Electronics,Smartphone,9,25000,19000
+2025-12-23,South,Furniture,Desk,8,12000,8000
+2025-12-25,West,Stationery,Pen Pack,5,250,120
+2025-12-28,East,Stationery,Pen Pack,8,250,120
+2025-12-29,South,Furniture,Office Chair,2,7000,4500
+2025-12-30,East,Stationery,Notebook,1,120,60

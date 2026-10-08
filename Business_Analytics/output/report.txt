@@ -1,0 +1,39 @@
+BUSINESS ANALYTICS REPORT
+========================================
+
+KEY METRICS
+  Total Revenue         : 24,250,500.00
+  Total Cost            : 18,048,640.00
+  Total Profit          : 6,201,860.00
+  Profit Margin (%)     : 25.57
+  Total Orders          : 298.00
+  Units Sold            : 1,500.00
+  Average Order Value   : 81,377.52
+
+INSIGHTS
+  Best month        : 2025-06 (3,194,680)
+  Weakest month     : 2025-03 (866,830)
+  Top region        : North
+  Top product       : Laptop
+  Top category      : Electronics
+  Most profitable   : Laptop
+  Highest margin    : Pen Pack
+
+REVENUE BY REGION
+        Revenue   Profit  Units  Margin (%)
+Region                                     
+North   6802330  1729870    359       25.43
+South   6228970  1599570    442       25.68
+West    5646390  1442030    363       25.54
+East    5572810  1430390    336       25.67
+
+REVENUE BY PRODUCT
+               Revenue   Profit  Units  Margin (%)
+Product                                           
+Laptop        15015000  3549000    273       23.64
+Smartphone     5450000  1308000    218       24.00
+Desk           1956000   652000    163       33.33
+Office Chair   1155000   412500    165       35.71
+Headphones      582000   232800    194       40.00
+Pen Pack         65500    34060    262       52.00
+Notebook         27000    13500    225       50.00
